@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Bureau de change</string>
+    <string name="accept_button">VALIDER</string>
+    <string name="change_money_button">CHANGER</string>
+    <string name="home_text_1">1 dollars vaut </string>
+    <string name="home_text_2">Taux</string>
+    <string name="change_page_text_1">Montant en FC</string>
+    <string name="change_page_text_2">Montant en dollars</string>
+    <string name="change_page_text_1_money">FC</string>
+    <string name="change_page_text_2_money">$</string>
 </resources>
